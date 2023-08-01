@@ -20,8 +20,8 @@ user_details = {
 #     if 'adam' in x['username']:
 #         print(x['password'])
 
-for x in user_details:
-    print(user_details[x]['username'])
-    if 'adam' in user_details[x]['username']:
-        print('Found')
+# for x in user_details:
+#     print(user_details[x]['username'])
+#     if 'adam' in user_details[x]['username']:
+#         print('Found')
 
